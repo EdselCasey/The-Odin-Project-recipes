@@ -1,3 +1,3 @@
 # The-Odin-Project-recipes
-recipe webpage for The odin Project
+Recipe webpage for The Odin Project
 Project will be a simple recipe page with links to other pages.
